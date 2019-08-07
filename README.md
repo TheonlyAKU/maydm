@@ -1,2 +1,2 @@
 # maydm
-by my wil 
+By my will
